@@ -8,4 +8,4 @@ As far as I am concerned, the "operating system" is not the kernel. I do not int
 
 Also note that I do not care about cost or hardware setup. If the system requires a solid latinum laptop with a price of the GDP of the US, I would still consider the requirements met. I want to know what is possible, what is being worked on, and how far away we are.
 
-You can substitute whatever kernel gets there first for "linux".
+You can substitute whatever kernel gets there first for "linux". And no, "GNU" is not the userland. In all probability, Gnome, KDE, etc is the userland. It's not like I care who made `ls`.
